@@ -1,5 +1,5 @@
-import React from 'react';
 import { Analytics } from '@vercel/analytics/react';
+import React from 'react';
 import '../styles/globals.scss';
 import { Layout } from '../components';
 
